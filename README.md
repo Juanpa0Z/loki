@@ -5,9 +5,9 @@ Aqui presento mi proyecto final el cual es una aplicacion android elaborada con 
 
 ## Aqui presento algunas capturas
 
-[alt text](img1.jpg)
-[alt text](img3.jpg)
-[alt text](img2.jpg)
+![alt text](img1.jpg)
+![alt text](img3.jpg)
+![alt text](img2.jpg)
 
 ### Como empezar
 
