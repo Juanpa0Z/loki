@@ -5,9 +5,9 @@ Aqui presento mi proyecto final el cual es una aplicacion android elaborada con 
 
 ## Aqui presento algunas capturas
 
-[alt text](/assets/img1.jpg)
-[alt text](/assets/img3.jpg)
-[alt text](/assets/img2.jpg)
+[alt text](/loki/assets/img1.jpg)
+[alt text](/loki/assets/img3.jpg)
+[alt text](/loki/assets/img2.jpg)
 
 ### Como empezar
 
